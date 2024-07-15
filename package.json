@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://GGURIMON.github.io/react_deploy/",
+  "homepage": "https://GGURIMON.github.io/react-practice/",
   "eslintConfig": {
     "extends": [
       "react-app",
